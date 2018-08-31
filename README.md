@@ -2,9 +2,9 @@
 #### 1. ¿Qué ofrece o para qué sirve el portal Phylogeny.fr?
 El portal Phylogeny.fr fue diseñado como una plataforma online gratuita dedicada a la reconstrucción y el análisis de las relaciones filogenéticas entre distintas secuencias moleculares, que agrupa diversos programas bioinformáticos para la producción de árboles genéticos.
 #### 2. Nombra y explica brevemente los 3 modos en los que se puede ejecutar el pipeline de Phylogeny.fr.
-    1) One Click: Pegue su conjunto de secuencias y deje que el software tome decisiones en su nombre (cada paso está optimizado para sus datos).
-    2) Advance: Establecer manualmente los parámetros para los diversos pasos.
-    3) A la carte: Cree su propio flujo de trabajo de filogenia usando más programas disponibles.
+    1) One Click: Es un software optimizado en el que se adjuntan las secuencias y el programa toma las decisiones.
+    2) Advance: En este sofware se establece manualmente los parámetros para los diversos pasos del prceso.
+    3) A la carte: Sofware que permite elegir el programa con el que se quiere trabajar (mayor filtro).
 #### 3. Menciona qué tipos de análsis se pueden realizar en el portal de acuerdo a la documentación. (Online Programs)
 
 #### 4. Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste. Recuerda que tu nombre completo debe aparecer en la imagen de cada filogenia (Name of the analysis).
