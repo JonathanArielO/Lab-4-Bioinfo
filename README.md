@@ -8,13 +8,15 @@ El portal Phylogeny.fr fue diseñado como una plataforma online gratuita dedicad
 #### 3. Menciona qué tipos de análsis se pueden realizar en el portal de acuerdo a la documentación. (Online Programs)
 Se pueden producir alineamientos de múltiples secuencias, entrega las herramientas necesarias para hacer árboles filogenéticos según el análisis que se necesite realizar, buscar secuencias génicas homólogas, entre otras.
 #### 4. Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste. Recuerda que tu nombre completo debe aparecer en la imagen de cada filogenia (Name of the analysis).
-![](https://github.com/JonathanArielO/Lab-4-Bioinfo/blob/master/jo4.PNG) ![](https://github.com/JonathanArielO/Lab-4-Bioinfo/blob/master/jo2.PNG)
+![](https://github.com/JonathanArielO/Lab-4-Bioinfo/blob/master/jo4.PNG)
+![](https://github.com/JonathanArielO/Lab-4-Bioinfo/blob/master/jo2.PNG)
 #### 5. ¿A qué se refiere el paso de Alignment curation y para qué sirve?
 Alignment curation se refiere al proceso por el que el programa se encarga de remover parte de las secuencias en donde se presentan gaps, haciendo que el alineamiento se ajuste mejor.
 #### 6. ¿Cuál es la diferencia entre BioNJ y Neighbor?
 
 #### 7. Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste (sin Alignment curation). Recuerda que tu nombre completo debe aparecer en la imagen de cada filogenia (Name of the analysis).
-
+![](https://github.com/JonathanArielO/Lab-4-Bioinfo/blob/master/jo1.PNG)
+![](https://github.com/JonathanArielO/Lab-4-Bioinfo/blob/master/JO3.PNG)
 #### 8. ¿Cuál es el efecto de no hacer la curación del alineamiento en las filogenias?
 
 #### 9. Describe las diferencias entre las filogenias que has estimado (4 en total): cantidad de grupos monofiléticos, relaciones que potencialmente cambiaron, etc.
