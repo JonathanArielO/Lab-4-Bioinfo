@@ -15,8 +15,8 @@ Alignment curation se refiere al proceso por el que el programa se encarga de re
 #### 6. ¿Cuál es la diferencia entre BioNJ y Neighbor?
 bueno
 #### 7. Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste (sin Alignment curation). Recuerda que tu nombre completo debe aparecer en la imagen de cada filogenia (Name of the analysis).
-![](https://github.com/JonathanArielO/Lab-4-Bioinfo/blob/master/jo1.PNG)
 ![](https://github.com/JonathanArielO/Lab-4-Bioinfo/blob/master/JO3.PNG)
+![](https://github.com/JonathanArielO/Lab-4-Bioinfo/blob/master/jo1.PNG)
 #### 8. ¿Cuál es el efecto de no hacer la curación del alineamiento en las filogenias?
 Disminuye la precisión de las relaciones filogenéticas.
 #### 9. Describe las diferencias entre las filogenias que has estimado (4 en total): cantidad de grupos monofiléticos, relaciones que potencialmente cambiaron, etc.
